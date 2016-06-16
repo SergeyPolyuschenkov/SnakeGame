@@ -1,0 +1,10 @@
+350,player4
+130,player1
+90,player10
+90,player6
+60,sera
+50,player8
+40,player2
+30,player12
+20,player7
+10,player11
